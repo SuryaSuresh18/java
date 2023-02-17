@@ -1,3 +1,13 @@
+/*
+Write a program to print an diamond star pattern using loop
+    *
+   *
+  ***
+ ***
+  ***
+   *
+    *
+*/
 import java.util.*;
 import java.util.Scanner;
 
