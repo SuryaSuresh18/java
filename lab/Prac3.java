@@ -1,3 +1,4 @@
+//Write a program to print even, odd, sum of natural number using for loop from 1-200
 class Prac3{
 	public void even_odd()
 	{
