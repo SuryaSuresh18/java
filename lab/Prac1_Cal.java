@@ -1,3 +1,4 @@
+//Write a program to design an Calculator using switch case
 //Calculator using Switch case
 import java.util.Scanner;
 public class Prac1_Cal {
