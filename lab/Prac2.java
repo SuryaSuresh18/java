@@ -1,4 +1,5 @@
-//Write a program to Print numbers from 1-100, which are divisible by 5, and if the number is greater than 40class Prac2{
+//Write a program to Print numbers from 1-100, which are divisible by 5, and if the number is greater than 40.
+
 class Prac2{
 	public void Div(){
 		for(int i=1;i<=100;i++)
