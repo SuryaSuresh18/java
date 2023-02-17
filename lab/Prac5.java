@@ -1,3 +1,11 @@
+/*
+Write a program to print Left down alphabet triangle pattern using loop
+ABCDE
+ABCD
+ABC
+AB
+A
+*/
 public class Prac5{
 	static void pattern(){
 		int i,j,n=5;
