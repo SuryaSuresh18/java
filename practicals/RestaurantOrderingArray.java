@@ -54,7 +54,7 @@ public class RestaurantOrderingArray {
 			}
 		}		
 	
-	public  int beverages(){
+	public void beverages(){
 		String a[]=new String []{"Tea","Coffee","Milk","Green Tea"};
 		System.out.println("Select the beverages from the Menu:");
 		System.out.println("1:Tea\n2:Coffee\n3:Milk\n4:Green Tea");
@@ -87,6 +87,6 @@ public class RestaurantOrderingArray {
 		ra.mainCourse();
 		ra.beverages();
 		System.out.println("Your order : ");
-		System.out.println(ra.num);
+		
 	}
 }
