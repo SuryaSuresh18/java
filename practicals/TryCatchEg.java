@@ -15,6 +15,9 @@ public class TryCatchEg {
 			System.out.println(e);//System generated error message
 			//System.out.println("Cannot divide by zero");//e is exception object
 		}
+		finally{//Executes every time you run the code
+			System.out.println("Hiiii");
+		}
 	}
 //NumberFormatException not present hence throws error
 }
